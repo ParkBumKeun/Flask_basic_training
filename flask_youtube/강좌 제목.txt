@@ -1,0 +1,21 @@
+1 강 어떻게 파이썬 웹사이트 만드는지
+
+2강 HTML 템플릿
+
+3강 부트스트랩 추가와 테믚ㄹ릿 상속
+
+4강 HTTP methods GET or POST , 폼데이터 
+
+5강 Sessions
+
+6강 Message FLashing
+
+7강 using SQLALchemy Database
+
+8강 Adding,Deleting & Updating Users W/ SQLAlchemy
+
+9강 Static Files(Custom CSS, Images & Javascript)
+
+10강 Blueprints & Using Multiple Python Files
+
+11강 How to Deploy a Flask APP to a Linux Server
